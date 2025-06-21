@@ -2,7 +2,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqtanb&layout=compact&theme=dark)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=aqtanb&icon=0&color=0)
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faqtanb&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aqtanb&theme=github-dark)
 
