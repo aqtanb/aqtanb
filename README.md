@@ -8,3 +8,7 @@
 
 ## 🏆 Profile Views
 ![Profile Views](https://komarev.com/ghpv/?username=aqtanb&color=blue)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aqtanb&theme=github-dark)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aqtanb&theme=dark)
